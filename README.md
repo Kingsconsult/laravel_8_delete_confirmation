@@ -14,4 +14,4 @@ This is will teach you how to create a delete confirmation in laravel 8 with boo
 9. php artisan serve (if the server opens up, http://127.0.0.1:8000,  then we are good to go)
 ![localhost](https://res.cloudinary.com/kingsconsult/image/upload/v1600705305/laravel%208%20modal/4_pp7r76.png)
 10. Navigate to http://127.0.0.1:8000/projects
-11. Create some projects and try to delete the projects
+11. Create some projects and try to delete the proje

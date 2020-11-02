@@ -117,8 +117,10 @@ class ProjectController extends Controller
             ->with('success', 'Project deleted successfully');
     }
 
-    public function delete(Project $project)
+    public function delete($id)
     {
+        $project = Project::find($id);
+
         return view('projects.delete', compact('project'));
     }
 }
